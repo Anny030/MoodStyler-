@@ -1,0 +1,18 @@
+
+{
+  "happy": {
+    "colors": ["yellow", "coral"],
+    "style": "casual chic",
+    "outfit": "flowy dress, white sneakers, layered necklaces"
+  },
+  "moody": {
+    "colors": ["black", "burgundy"],
+    "style": "edgy",
+    "outfit": "leather jacket, skinny jeans, boots"
+  },
+  "calm": {
+    "colors": ["blue", "sage green"],
+    "style": "minimal",
+    "outfit": "linen pants, soft tee, slides"
+  }
+}
